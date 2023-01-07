@@ -1,0 +1,12 @@
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\bin\Debug\net7.0\HR.deps.json
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\bin\Debug\net7.0\HR.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\bin\Debug\net7.0\HR.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\refint\HR.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\HR.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Ecommerce\HR\obj\Debug\net7.0\ref\HR.dll

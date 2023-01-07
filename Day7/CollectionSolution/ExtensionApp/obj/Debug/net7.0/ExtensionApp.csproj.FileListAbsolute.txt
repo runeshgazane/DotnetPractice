@@ -1,0 +1,15 @@
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\bin\Debug\net7.0\ExtensionApp.exe
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\bin\Debug\net7.0\ExtensionApp.deps.json
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\bin\Debug\net7.0\ExtensionApp.runtimeconfig.json
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\bin\Debug\net7.0\ExtensionApp.dll
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\bin\Debug\net7.0\ExtensionApp.pdb
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.csproj.AssemblyReference.cache
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.AssemblyInfoInputs.cache
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.AssemblyInfo.cs
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.csproj.CoreCompileInputs.cache
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.dll
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\refint\ExtensionApp.dll
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.pdb
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ExtensionApp.genruntimeconfig.cache
+D:\DATA-DAC\DotnetData\dotnet\Day7\CollectionSolution\ExtensionApp\obj\Debug\net7.0\ref\ExtensionApp.dll

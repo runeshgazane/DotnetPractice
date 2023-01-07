@@ -1,0 +1,12 @@
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\bin\Debug\net7.0\MathOperations.deps.json
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\bin\Debug\net7.0\MathOperations.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\bin\Debug\net7.0\MathOperations.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.csproj.AssemblyReference.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.AssemblyInfoInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.AssemblyInfo.cs
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\refint\MathOperations.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\MathOperations.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day7\ExtensionPractice\MathOperations\obj\Debug\net7.0\ref\MathOperations.dll

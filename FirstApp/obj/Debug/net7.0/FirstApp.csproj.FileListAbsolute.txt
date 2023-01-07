@@ -1,0 +1,15 @@
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\bin\Debug\net7.0\FirstApp.exe
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\bin\Debug\net7.0\FirstApp.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll

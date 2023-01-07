@@ -1,0 +1,12 @@
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.deps.json
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.pdb
+D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\ref\Catalog.dll
