@@ -17,16 +17,12 @@ public class ProductController : Controller
 
     public IActionResult DisplayProducts(){
         ProductManager.GetAllProducts();
-        var fileName=@"D:\Runesh_Saurav_DAC\dotnet\LabWork\Day8\ECommerce\tflstore\prodlist.json";
+        var fileName=@"D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore\prodlist.json";
         string jsonString = System.IO.File.ReadAllText(fileName);
         List<Product> jsonProducts = JsonSerializer.Deserialize<List<Product>>(jsonString);
         Console.WriteLine("data is deserialized");  
 
         ViewData["catalog"]=jsonProducts;
-        return Redirect("/Product/FlowerList");
-    }
-
-     public IActionResult FlowerList(){
         return View();
     }
 }

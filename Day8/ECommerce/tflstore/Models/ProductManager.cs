@@ -25,7 +25,7 @@ public class ProductManager
             allProducts.Add(new Product { ProductId = 15, Title = "Tulip", Description = "Tulips are the quintessential spring flower and available from January to June.", UnitPrice = 17, Category = "Flower", Balance = 10000 });
             var options = new JsonSerializerOptions { IncludeFields = false };
             var dataJson = JsonSerializer.Serialize<List<Product>>(allProducts, options);
-            string fileName = @"D:\Runesh_Saurav_DAC\dotnet\LabWork\Day8\ECommerce\tflstore\prodlist.json";
+            string fileName = @"D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore\prodlist.json";
             System.IO.File.WriteAllText(fileName,dataJson);
         }
 

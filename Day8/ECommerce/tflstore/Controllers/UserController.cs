@@ -27,10 +27,10 @@ public IActionResult Register()
 
 public IActionResult Validate(string email, string password)
     {
-        var fileName=@"D:\Runesh_Saurav_DAC\dotnet\LabWork\Day8\ECommerce\tflstore\data.json";
+        var fileName=@"D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore\data.json";
         string jsonString = System.IO.File.ReadAllText(fileName);
         List<User> jsonUser = JsonSerializer.Deserialize<List<User>>(jsonString);
-         Console.WriteLine("data is deserialized");
+        Console.WriteLine("data is deserialized");
         foreach(User u in jsonUser){
             Console.WriteLine(u.Email+" "+u.Password);
             if(email==u.Email && password==u.Password){
@@ -40,17 +40,15 @@ public IActionResult Validate(string email, string password)
         return Redirect("/User/Login");
     }
 
-    public IActionResult StoreData(string fname,string lname,string email, string password,
-                                    string contact,string addr)
+    public IActionResult StoreData(string fname,string lname,string email, string password)
     {
-        var user = new User(){FirstName=fname,LastName=lname,Email=email,
-                                Password=password,Contact=contact,Address=addr};
+        var user = new User(){FirstName=fname,LastName=lname,Email=email,Password=password};
 
         List<User> updatedList=UserCatalog.addUser(user);
 
         var options = new JsonSerializerOptions { IncludeFields = false };
         var dataJson = JsonSerializer.Serialize<List<User>>(updatedList, options);
-        string fileName = @"D:\Runesh_Saurav_DAC\dotnet\LabWork\Day8\ECommerce\tflstore\data.json";
+        string fileName = @"D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore\data.json";
         System.IO.File.WriteAllText(fileName,dataJson);
         return Redirect("/User/Login");
     }
