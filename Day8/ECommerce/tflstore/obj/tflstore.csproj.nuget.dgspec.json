@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj": {}
+    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj": {}
   },
   "projects": {
-    "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj": {
+    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj",
+        "projectUniqueName": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj",
         "projectName": "tflstore",
-        "projectPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day8\\ECommerce\\tflstore\\obj\\",
+        "projectPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day8\\ECommerce\\tflstore\\tflstore.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day8\\ECommerce\\tflstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

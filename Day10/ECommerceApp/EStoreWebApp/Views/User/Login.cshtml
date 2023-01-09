@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<form action="/User/Validate">
+  <!-- Email input -->
+  <div class="form-outline mb-4">
+    <input type="email" id="email" name="email" class="form-control" />
+    <label class="form-label" for="email">Email address</label>
+  </div>
+
+  <!-- Password input -->
+  <div class="form-outline mb-4">
+    <input type="password" id="password" name="password" class="form-control" />
+    <label class="form-label" for="password">Password</label>
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+
+  <!-- Register buttons -->
+  <div class="text-center">
+    <p>Not a member? <a href="/User/Register">Register</a></p>
+  </div>
+  </form>

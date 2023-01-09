@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tflstore
 build_property.RootNamespace = tflstore
-build_property.ProjectDir = D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore\
+build_property.ProjectDir = D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day8\ECommerce\tflstore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day8\ECommerce\tflstore
+build_property.MSBuildProjectDirectory = D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day8\ECommerce\tflstore
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Index.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Privacy.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Welcome.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Home/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Product/DisplayProducts.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Product/DisplayProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEaXNwbGF5UHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/Error.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/User/Login.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/User/Register.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/_ViewImports.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/_ViewStart.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD/Daily_Practice/Dotnet_LocalRepo/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/_Layout.cshtml]
+[D:/Runesh_Saurav_DAC/Dotnet_Runesh/DotnetPractice/Day8/ECommerce/tflstore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-41dg28fsc4

@@ -1,0 +1,17 @@
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\BLL.dll
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\BOL.dll
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\DAL.dll
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\DAL.pdb
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\bin\Debug\net7.0\BOL.pdb
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.dll
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Runesh_Saurav_DAC\Dotnet_Runesh\DotnetPractice\Day10\ECommerceApp\BLL\obj\Debug\net7.0\ref\BLL.dll
