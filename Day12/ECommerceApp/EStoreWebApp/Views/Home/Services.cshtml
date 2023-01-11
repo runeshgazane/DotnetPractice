@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+@{
+List<string> servicelist= ViewBag.trainings;
+    foreach(string s in servicelist){
+        <ul>
+            <li>@s</li>
+        </ul>
+    }
+}

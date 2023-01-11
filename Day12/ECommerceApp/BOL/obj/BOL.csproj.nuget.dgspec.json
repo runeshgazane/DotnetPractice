@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\BOL\\BOL.csproj": {}
+    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\BOL\\BOL.csproj": {}
   },
   "projects": {
-    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\BOL\\BOL.csproj": {
+    "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\BOL\\BOL.csproj",
+        "projectPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\BOL\\obj\\",
+        "outputPath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config"

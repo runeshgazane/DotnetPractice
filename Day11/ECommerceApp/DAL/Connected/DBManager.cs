@@ -3,7 +3,7 @@ using BOL;
 using MySql.Data.MySqlClient;
 
 
-public class DBManagerCon{
+public class DBManager{
     public static string conString=@"server=localhost;port=3307;user=root;password=root123;database=transflower";
     public static List<Department> GetAllDepartments(){
         List<Department> allDepartments= new List<Department>();

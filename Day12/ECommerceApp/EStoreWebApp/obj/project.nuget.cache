@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dz4pFLdoF7QDUaYlntw5pXqRlv9PU40fD3F/xNeYjzgl9/F+2IQGx9fZqex4QCjEiTnFIzRhFQ7BupzPeVEpGA==",
+  "dgSpecHash": "tk4j3efIgyx95So1wnzD10xSbxy0jkbUSbOyJ/AVtt90LQQQiW/yCHblmZMPpReFuceiqFATMWba3RcsCyVE/g==",
   "success": true,
-  "projectFilePath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day11\\ECommerceApp\\EStoreWebApp\\EStoreWebApp.csproj",
+  "projectFilePath": "D:\\Runesh_Saurav_DAC\\Dotnet_Runesh\\DotnetPractice\\Day12\\ECommerceApp\\EStoreWebApp\\EStoreWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dac\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\dac\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
