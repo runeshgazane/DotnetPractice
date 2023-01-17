@@ -1,0 +1,15 @@
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.csproj.AssemblyReference.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.AssemblyInfoInputs.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.AssemblyInfo.cs
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.csproj.CoreCompileInputs.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\bin\Debug\net7.0\serdeserdemo.exe
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\bin\Debug\net7.0\serdeserdemo.deps.json
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\bin\Debug\net7.0\serdeserdemo.runtimeconfig.json
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\bin\Debug\net7.0\serdeserdemo.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\bin\Debug\net7.0\serdeserdemo.pdb
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\refint\serdeserdemo.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.pdb
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\serdeserdemo.genruntimeconfig.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\serdeserdemo\obj\Debug\net7.0\ref\serdeserdemo.dll

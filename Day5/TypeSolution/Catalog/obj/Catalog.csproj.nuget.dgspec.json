@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {}
+    "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {
+    "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\obj\\",
+        "projectPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

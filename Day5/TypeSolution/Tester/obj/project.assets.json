@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dac\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Tester\\Tester.csproj",
+      "projectUniqueName": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Tester\\Tester.csproj",
       "projectName": "Tester",
-      "projectPath": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Tester\\Tester.csproj",
-      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-      "outputPath": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Tester\\obj\\",
+      "projectPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Tester\\Tester.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Tester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {
-              "projectPath": "D:\\Runesh_Saurav_DAC\\dotnet\\LabWork\\Day5\\TypeSolution\\Catalog\\Catalog.csproj"
+            "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj": {
+              "projectPath": "D:\\IACSD\\Daily_Practice\\Dotnet_LocalRepo\\DotnetPractice\\Day5\\TypeSolution\\Catalog\\Catalog.csproj"
             }
           }
         }
@@ -82,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

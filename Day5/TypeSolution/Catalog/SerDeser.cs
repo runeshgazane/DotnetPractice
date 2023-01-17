@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 namespace Catalog;
+
 public class SerDeser
 {
     string fileName = @"D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog.json";

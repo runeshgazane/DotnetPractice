@@ -10,3 +10,15 @@ D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\C
 D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\refint\Catalog.dll
 D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.pdb
 D:\Runesh_Saurav_DAC\dotnet\LabWork\Day5\TypeSolution\Catalog\obj\Debug\net7.0\ref\Catalog.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.deps.json
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\bin\Debug\net7.0\Catalog.pdb
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\Catalog.pdb
+D:\IACSD\Daily_Practice\Dotnet_LocalRepo\DotnetPractice\Day5\TypeSolution\Catalog\obj\Debug\net7.0\ref\Catalog.dll

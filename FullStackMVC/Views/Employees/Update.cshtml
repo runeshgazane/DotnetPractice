@@ -1,0 +1,20 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Update Employee page";
+}
+
+<div>
+    <form action="/Employees/Update" method="post">
+    ID : <input type="number" id="id" name="id"><br><br>
+    FirstName : <input type="text" id="fname" name="fname"><br><br>
+    LastName : <input type="text" id="lname" name="lname"><br><br>
+    Email : <input type="email" id="email" name="email"><br><br>
+    Address : <input type="text" id="addr" name="addr"><br><br>
+    Password : <input type="password" id="passwd" name="passwd"><br><br>
+    Dept Id : <input type="number" id="deptid" name="deptid"><br><br>
+    Manager Id : <input type="number" id="mgrid" name="mgrid"><br><br>
+    <button type="submit" id="btn" name="btn" value="submit">Update Employee</button>
+    
+    </form>
+</div>

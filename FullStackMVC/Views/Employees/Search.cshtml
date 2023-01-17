@@ -1,0 +1,12 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Search Employee page";
+}
+
+<div>
+    <form action="/Employees/Details" method="post">
+    ID : <input type="number" id="id" name="id"><br><br>
+    <button type="submit" id="btn" name="btn" value="submit">Search Employee</button>
+    </form>
+</div>

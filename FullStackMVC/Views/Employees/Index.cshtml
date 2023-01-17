@@ -1,0 +1,38 @@
+@using BOL;
+@using System.Collections.Generic;
+
+@{
+    ViewData["Title"] = "Employee list page";
+}
+
+<div>
+    <h2>Employee List</h2>
+@{
+    List<Employees> empList=(List<Employees>)ViewData["employees"];
+    <form action="/Employees/Insert">
+    <table style="border: 2px solid black;">
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>DeptId</th>
+            <th>ManagerId</th>
+        </tr>
+        @foreach (var emp in empList){
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.FirstName</td>
+                <td>@emp.LastName</td>
+                <td>@emp.Email</td>
+                <td>@emp.Address</td>
+                <td>@emp.Deptid</td>
+                <td>@emp.Managerid</td>
+            </tr>
+        }
+        </table>
+        <button type="submit" id="btn" name="btn">Insert</button>
+    </form>
+}
+</div>
